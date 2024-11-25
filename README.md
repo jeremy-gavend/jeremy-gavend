@@ -11,6 +11,8 @@ Learning:
 - JS
 - Java
 
+![jeremy-gavend's Stats](https://github-readme-stats.vercel.app/api?username=jeremy-gavend&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ## Links
 
 LinkedIn

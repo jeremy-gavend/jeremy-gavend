@@ -6,7 +6,7 @@ I'm Gavend Jeremy.
 
 ## Languages
 
-Working on:
+Learning:
 - Python
 - JS
 - Java

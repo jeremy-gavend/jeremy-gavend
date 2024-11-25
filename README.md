@@ -14,8 +14,8 @@ Learning:
 ![jeremy-gavend's Stats](https://github-readme-stats.vercel.app/api?username=jeremy-gavend&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ## Links
+[![linkedin][http://s1.iconbird.com/ico/2014/1/582/w16h161389898189linkedin16.png][https://fr.linkedin.com/in/jean-gavend?trk=people-guest_people_search-card]
 
-![https://fr.linkedin.com/in/jean-gavend?trk=people-guest_people_search-card](http://s1.iconbird.com/ico/2014/1/582/w16h161389898189linkedin16.png)
 
 <!--
 **jeremy-gavend/jeremy-gavend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

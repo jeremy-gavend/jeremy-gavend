@@ -15,7 +15,7 @@ Learning:
 
 ## Links
 
-LinkedIn
+![https://fr.linkedin.com/in/jean-gavend?trk=people-guest_people_search-card](http://s1.iconbird.com/ico/2014/1/582/w16h161389898189linkedin16.png)
 
 <!--
 **jeremy-gavend/jeremy-gavend** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
